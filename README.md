@@ -39,25 +39,38 @@ accuracy:  **0.82666665**
 
 Based on the trained model, predictions were made based on X-Ray photographs for the val file. 8  NORMAL class and 7 PNEUMONIA class X-Ray images used for the prediction . The results of the prediction can be seen in the following sequence.
 
-  ***Prediction of NORMAL class:***
+***Prediction of NORMAL class:***
   
 [[1.]]
+
 [[0.]]
+
 [[1.]]
+
 [[1.]]
+
 [[1.]]
+
 [[1.]]
+
 [[0.]]
+
 [[0.]]
 
 ***Prediction of PNEUMONIA class:***
 
 [[1.]]
+
 [[1.]]
+
 [[1.]]
+
 [[1.]]
+
 [[1.]]
+
 [[1.]]
+
 [[1.]]
 
 ***Took 250.25734400749207 seconds to classificate objects.***
