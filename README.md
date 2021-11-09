@@ -3,7 +3,7 @@
 
 ## Problem Statement
 
-The task at hand is to **classify diagnosis PNEUMONIA or NORMAL** using supervised machine learning method (CNN). Output layer is binary. Unfortunately, I couldn't put the images in the storage because the file size was too large. You can download the images from the[Kaggle](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia) webpage. After downloading, save the python file where the **chest_xray folder**.
+The task at hand is to **classify diagnosis PNEUMONIA or NORMAL** using supervised machine learning method (CNN). Output layer is binary. Unfortunately, I couldn't put the images in the storage because the file size was too large. You can download the images from the [Kaggle](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia) webpage. After downloading, save the python file where the **chest_xray folder**.
 
 ## Dataset
 
