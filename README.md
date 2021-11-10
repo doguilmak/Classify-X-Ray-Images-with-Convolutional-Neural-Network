@@ -81,11 +81,8 @@ For understanding the methodology you are free to visit the [CNN Explainer](http
 
 Converting CNN keras model (classifier) to dot format and save to a file:
 
-![cnn_plot_model](Plot/binary_input_and_output_model.png)
-
-**Align center:**
 <p align="center">
-    <img width="33%" src="Plot/binary_input_and_output_model.png"> 
+    <img src="Plot/binary_input_and_output_model.png"> 
 </p>
 
 val_accuracy:  **0.8845000267028809**
