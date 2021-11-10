@@ -69,13 +69,9 @@ Sources:
 
 Dataset has 5216 images belonging to 2 classes in total. **test** folder has 624 X-Ray images, **train** folder has 5216 X-Ray images and **val** folder has 18 X-Ray images.
 
-**Example of NORMAL Class X-Ray Image:**
-
-![normal_ex](Plot/normal.png)
-
-**Example of PNEUMONIA Class X-Ray Image:**
-
-![pneumonia_ex](Plot/pneumonia.png)
+| Example of NORMAL Class X-Ray Image | Example of PNEUMONIA Class X-Ray Image |
+|--|--|
+| ![normal_ex](Plot/normal.png) | ![pneumonia_ex](Plot/pneumonia.png) |
 
 ## Methodology
 
